@@ -1,0 +1,9 @@
+# uvm-1.2/
+work/
+*.vcd
+transcript
+command
+modelsim.ini
+vsim.wlf
+*.log
+*.txt
